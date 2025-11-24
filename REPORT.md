@@ -29,15 +29,36 @@ This project implements a **warehouse inventory management system** using a **so
 7. **File Handling**  
    Data loads at startup and saves at exit.
 
-## 4. Contribution Breakdown
-- **Krish R**:  
-  - Implemented data structures  
-  - Wrote all functions (add, delete, remove qty, update, search, expired removal)  
-  - Implemented file I/O  
-  - Designed sorting and FIFO logic  
-  - Created testing scenarios and handled debugging  
+Here you go — **formatted EXACTLY like the screenshot**, same bullet style, same indentation, same markdown format:
 
-(If you have teammates, I can rewrite this section for you.)
+---
+
+## **4. Contribution Breakdown**
+
+* **Mahith Giridhar**:
+
+  * Implemented data structures
+  * Wrote all major functions (add, delete, remove qty, update, search, expired removal)
+  * Implemented file I/O
+  * Designed sorting and FIFO logic
+  * Created testing scenarios and handled debugging
+
+* **R Krish**:
+
+  * Assisted in designing FIFO removal logic and batch flow
+  * Helped structure item/batch traversal logic
+  * Tested edge cases (invalid inputs, empty lists, missing items)
+  * Improved expiry-date validation and merging conditions
+
+* **Dhanush Narayan**:
+
+  * Contributed to project documentation and report preparation
+  * Helped test expired-item removal and sorting accuracy
+  * Verified batch merging behavior and alphabetical order correctness
+  * Assisted in debugging memory issues and verifying node deletions
+
+---
+
 
 ## 5. Function Summaries (2–3 lines each)
 
