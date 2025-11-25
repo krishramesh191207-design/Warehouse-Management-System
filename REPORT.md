@@ -59,7 +59,7 @@ Here you go — **formatted EXACTLY like the screenshot**, same bullet style, sa
 ---
 
 
-## 5. Function Summaries (2–3 lines each)
+## 5. Function Summaries
 
 ### `newnode()`
 Creates a new node (batch) with given item data. Allocates memory and initializes values.
