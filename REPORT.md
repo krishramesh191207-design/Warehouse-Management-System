@@ -38,23 +38,19 @@ Here you go — **formatted EXACTLY like the screenshot**, same bullet style, sa
 * **Mahith Giridhar**:
 
   * Implemented data structures
-  * Wrote major functions (add, delete, remove qty, update, search, expired removal)
-  * Implemented file I/O
+  * Wrote functions (add, update, search)
   * Created testing scenarios and handled debugging
 
 * **R Krish**:
-
-  * Assisted in designing FIFO removal logic and batch flow
+  * Wrote functions (delete, remove qty, expired removal)
   * Helped structure item/batch traversal logic, test expired-item removal and sorting accuracy
   * Tested edge cases (invalid inputs, empty lists, missing items)
-  * Improved expiry-date validation and merging conditions
 
 * **Dhanush Narayan**:
 
   * Contributed to project documentation and report preparation
-  * Verified batch merging behavior and alphabetical order correctness
+  * Implemented file I/O
   * Assisted in debugging memory issues and verifying node deletions
-  * Improved expiry-date validation and merging conditions
 
 ---
 
